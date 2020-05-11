@@ -1,0 +1,77 @@
+0#2#3#Jl.Sutera Boulevard
+0#1#1#Jl.Sutera Boulevard
+1#2#1#Jl.Sutera Boulevard
+2#3#11#Jl.Tol Jakarta-Tangerang
+2#37#5#Jl.Tol Jakarta-Tangerang
+37#3#7#Jl.Tol Jakarta-Tangerang
+37#38#11#Jl.Tol Lingkar Luar Jakarta W2
+38#17#11#Jl.Tol Lingkar Luar Jakarta W2
+37#17#20#Jl.Tol Lingkar Luar Jakarta W2
+17#4#20#Jl.Tol Pondok Pinang-TMII
+4#6#8#Jl.Lenteng Agung Raya
+4#5#5#Jl.Lenteng Agung Raya
+5#6#5#Jl.Lenteng Agung Raya
+4#7#16#Jl.Tol Pondok Pinang-TMII
+17#7#35#Jl.Tol Pondok Pinang-TMII
+7#8#49#Jl.Tol Jogorawi
+8#9#7#Jl.Raya Bogor Sukabumi 
+9#10#8#Jl.Raya Bogor Sukabumi
+8#10#14#Jl.Raya Bogor Sukabumi
+3#15#1#Jl.Letjen S.Parman
+15#16#5#Jl.Letjen S.Parman
+3#16#5#Jl.Letjen S.Parman
+3#18#10#Jakarta Inner Ring Road
+18#19#10#Jakarta Inner Ring Road
+3#19#19#Jakarta Inner Ring Road
+18#20#9#Jl.Gatot Subroto
+18#21#5#Jl.Gatot Subroto
+21#20#5#Jl.Gatot Subroto
+19#22#25#Jl.Tol JKT-Cikampek
+22#23#22#Jl.Tol JKT-Cikampek
+19#23#45#Jl.Tol JKT-Cikampek
+20#24#3#Jl.Jenderal Sudirman
+24#25#3#Jl.Jenderal Sudirman
+20#25#5#Jl.Jenderal Sudirman
+25#26#2#Jl.MH.Thamrin
+26#27#2#Jl.MH.Thamrin
+25#27#3#Jl.MH.Thamrin
+22#28#3#Jl.Jend. Ahmad Yani
+28#29#3#Jl.Jend. Ahmad Yani
+22#29#5#Jl.Jend. Ahmad Yani
+29#30#1#Jl.Insinyur H. Juanda
+30#31#1#Jl.Insinyur H. Juanda
+29#31#1#Jl.Insinyur H. Juanda
+29#32#2#Jl.Boulevard Ahmad Yani
+32#33#2#Jl.Boulevard Ahmad Yani
+29#33#3#Jl.Boulevard Ahmad Yani
+37#34#20#Jl.Tol Lingkar Luar Jakarta W1
+34#35#13#Jl.Tol Airport Prof. Sedyatmo
+35#36#3#Jl.Raya Bandara Soekarno Hatta
+17#39#12#Jl.Tol Jkt-Serpong
+39#40#11#Jl.Tol Jkt-Serpong
+17#40#22#Jl.Tol Jkt-Serpong
+39#41#4#Jl.Boulevard Bintaro Jaya
+41#42#5#Jl.Boulevard Bintaro Jaya
+39#42#8#Jl.Boulevard Bintaro Jaya
+38#43#3#Jl.Ciledug Raya
+43#44#3#Jl.Ciledug Raya
+38#44#5#Jl.Ciledug Raya
+44#45#1#Jl.Pakubuwono VI
+45#46#1#Jl.Pakubuwono VI
+44#46#1#Jl.Pakubuwono VI
+46#47#1#Jl.Hang lengkir 2
+47#48#1#Jl.Hang lengkir 2
+46#48#1#Jl.Hang lengkir 2
+48#49#2#Jl.Asia Afrika
+49#50#2#Jl.Asia Afrika
+48#50#3#Jl.Asia Afrika
+50#51#1#Jl.Gerbang Pemuda
+51#52#1#Jl.Gerbang Pemuda
+50#52#1#Jl.Gerbang Pemuda
+52#21#5#Jl.Gatot Subroto
+52#20#9#Jl.Gatot Subroto
+19#53#3#Jl.Tol Cililitan 2
+53#54#4#Jl.Tol Cililitan 2
+19#54#6#Jl.Tol Cililitan 2
+54#55#5#Jl.Tol Pulomas-Cawang
+55#56#5#Jl.Tol Ir.Wiyoto Wiyono

@@ -1,0 +1,50 @@
+Binus ASO#1
+Binus Alam Sutera#1
+Living World Mall#1
+Apartemen Paddington#1
+Apartemen Silkwood#1
+Swiss German University#1
+The Prominance Tower#1
+Bunda Mulia University#1
+Universitas Indonesia#5
+Universitas Pancasila#5
+Kebun Raya Bogor#9
+Mall Taman Anggrek#15
+Universitas Trisakti#15
+Smesco Indonesia#21
+Rest Area Cikampek#23
+FX Sudirman#24
+Sarinah Thamrin#27
+Stasiun Bekasi#30
+Summarecon Mal Bekasi#32
+Bandar Udara International Soekarno-Hatta#36
+BXC Mall#41
+Pasar Cipulir#43
+Universitas Moestopo#47
+Apartemen Pakubuwono#45
+Anomali Coffe Pakubuwono#45
+Senayan City#49
+SCTV#49
+Plaza Senayan#49
+Fairmont#49
+Hotel Mulia#49
+Plaza Mandiri#21
+BPJS Ketenagakerjaan#21
+Hotel Kartika Chandra#21
+Yamaha Music Center#21
+Holywood XXI#21
+Plaza Telkom Indonesia#21
+Four Seasons Hotel#21
+Dinas Pariwisata dan Kebudayaan#21
+Wisma Mulia#21
+Berita Satu Media#21
+Balai Kartini#21
+Palm Court Apartmen#21
+Kementerian Perindustrian#21
+PT. Krakatau Steel#21
+Kedutaan Besar Korea#21
+Universitas Paramadina#21
+Smesco Indonesia#21
+Zalora Indonesia#21
+
+
